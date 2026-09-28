@@ -28,7 +28,7 @@ public class Candidato {
     }
 
     public String getNome() {
-        return nome;
+        return "Nome errado";
     }
 
     public void setNome(String nome) {
