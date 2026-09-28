@@ -1,4 +1,4 @@
-package Pakcage1;
+package com.mackenzie.eleicao;
 
 import java.time.LocalDate;
 
